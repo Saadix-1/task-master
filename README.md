@@ -6,7 +6,7 @@
 
 **Task Master** is a simple web-based To-Do List application built with Flask and SQLite.  
 It allows users to easily add, edit, delete, and view tasks.
-
+ 
 ---
 
 ## Features
